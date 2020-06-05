@@ -4,11 +4,19 @@ A small script to download and archive all repositories of a account in **GitHub
 
 ## GitHub Scripts
 
+All scripts written in PHP language.
+
 ### Download Repositories
+
+[View source: download-repositories.php](download-repositories.php)
 
 ### Update Repositories
 
+[View source: update-repositories.php](update-repositories.php)
+
 ### Upgrade Repositories
+
+[View source: upgrade-repositories.php](upgrade-repositories.php)
 
 ---------
 
