@@ -2,6 +2,14 @@
 
 A small script to download and archive all repositories of a account in **GitHub** with **PHP**.
 
+## GitHub Scripts
+
+### Download Repositories
+
+### Update Repositories
+
+### Upgrade Repositories
+
 ---------
 
 # Max Base
