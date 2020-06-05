@@ -26,7 +26,8 @@ This will download/clone new repositories of GitHub account and will update exis
 
 ### Dependency
 
-Only git and PHP.
+- git and PHP
+- GitHub API (https://developer.github.com/v3/)
 
 ## TODO
 
