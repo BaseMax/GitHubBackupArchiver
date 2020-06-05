@@ -24,7 +24,7 @@ This will download/clone new repositories of GitHub account and will update exis
 
 [View source: upgrade-repositories.php](upgrade-repositories.php)
 
-# Dependency
+## Dependency
 
 Only git and PHP.
 
