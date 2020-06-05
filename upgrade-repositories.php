@@ -3,7 +3,7 @@
 // https://github.com/BaseMax/GitHubBackupArchiver
 include "NetPHP.php";
 $username="basemax"
-$count=260;
+$count=260; // You need to change this.
 $page=ceil($count / 100);
 // $path="/root/repositories";
 $path=getcwd();
